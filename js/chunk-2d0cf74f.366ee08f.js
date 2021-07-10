@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cf74f"],{6494:function(n,s,e){"use strict";e.r(s);e("1d64");var r=e("48ce");function t(n){return new r.Crypto.Address(n).serialize()}function d(n){return t(n)}function i(n){return"A"===n.substr(0,1)&&34===n.length}s["default"]={install:function(){},addressToHash:t,addressToHex:d,isValidAddress:i}}}]);
