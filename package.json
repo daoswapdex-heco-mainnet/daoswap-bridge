@@ -1,5 +1,5 @@
 {
-  "name": "@daoswapdex-heco-testnet/daoswap-bridge",
+  "name": "@daoswapdex-heco-mainnet/daoswap-bridge",
   "version": "0.1.0",
   "private": true,
   "scripts": {
